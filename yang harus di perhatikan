@@ -1,2 +1,3 @@
 1. web.php di route mengelola alamat url
 2.controller-app-controler
+3.app-model , cara menggunakan model yang ringass, use app\model; kemudian di pemanggilan tinggal panggil kelas ,model nya, student::all();
